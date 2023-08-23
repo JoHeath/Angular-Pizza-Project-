@@ -1,5 +1,5 @@
- tr {
-    padding: 15px;
+ tr, td {
+    padding: 7px;
 }
 h1 {
     padding-left: 20px;
