@@ -1,0 +1,10 @@
+ tr {
+    padding: 15px;
+}
+h1 {
+    padding-left: 20px;
+}
+table, th, td {
+    border: 1px solid rgb(228, 37, 37);
+  }
+  
